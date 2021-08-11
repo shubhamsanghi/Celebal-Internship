@@ -1,6 +1,6 @@
 # **Optical Character Recognition**
 
-**Aim** : In this project we had to predict the next character from the previous set of words or sentences. 
+**Aim** : The goal of the project is to predict the next character from the previous set of words or sentences. 
 
   The principle behind Optical Character Recognition (OCR) framework dependent on a lattice foundation is to perform Document Image Analysis, report preparing of electronic 
 record designs changed over from paper arranges all the more viably and productively. This works on the exactness of perceiving the characters during record preparing contrasted 
